@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background -->
+    <color name="bg_dark">#0F0F0F</color>
+    <color name="bg_surface">#1A1A2E</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+
+    <!-- Accent -->
+    <color name="accent_blue">#4FC3F7</color>
+    <color name="accent_green">#81C784</color>
+    <color name="accent_yellow">#FFD54F</color>
+    <color name="accent_red">#EF5350</color>
+
+    <!-- Chip -->
+    <color name="chip_bg">#1A1A2E</color>
+    <color name="chip_selected">#4FC3F7</color>
+</resources>
+<!-- already defined above, skip -->
